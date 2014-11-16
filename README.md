@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kezek/whosfilming.svg?branch=master)](https://travis-ci.org/kezek/whosfilming)
+
 Heroku
 =======
 
